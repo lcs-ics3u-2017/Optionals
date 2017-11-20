@@ -15,7 +15,6 @@
  */
 // Type the code below this line
 
-
 /*:
  
  Open the debug area by pressing **Command-Shift-Y**.
@@ -26,7 +25,7 @@
  
  ![variable-not-initialized](error.png)
  
- Now revise your code above, and change it to the following:
+ Now remove your code from above, and type the following instead:
  
  ![declare-with-value](declare-with-value.png)
  
