@@ -3,9 +3,11 @@
  
  ## Variable initialization
  
+ - Callout(Essential Question):
  What is the difference between an optional String and a regular String?
  
- Try typing the following code into the playground:
+ ### Experiment #1
+ Try typing the following code below on lines 19 and 20:
  
  ![declare-no-value](declare-no-value.png)
  
@@ -15,23 +17,42 @@
  */
 // Type the code below this line
 
+
 /*:
  
- Open the debug area by pressing **Command-Shift-Y**.
+ To see the result, open the debug area by pressing **Command-Shift-Y**.
  
- Scroll up to the top of the output.
+ Scroll to the top of the output in the debug area.
  
  You should have seen output similar to the following:
  
  ![variable-not-initialized](error.png)
  
- Now remove your code from above, and type the following instead:
+ ### Experiment #2
  
- ![declare-with-value](declare-with-value.png)
+ Now comment out the code above from experiment #1.
+ 
+ Then type the following instead:
+ 
+ ![declare-optional](declare-optional.png)
+ 
+ */
+// Type the second code example below...
+
+
+/*:
  
  Run the playground again.
  
- How does the result differ?
+ You will notice a warning appears:
+ 
+ ![coerced](coerced.png)
+ 
+ Aside from that warning, focus on the result shown in the debug area.
+ 
+ How does the result shown from the second block of code differ from the result you got when running the first block of code?
+ 
+ Write the answer in your app development journal.
  
  */
 //: [Next](@next)
