@@ -1,7 +1,7 @@
 /*:
  
  # Optionals
- 
+
  Swift is a language designed to help programmers write safer code – to avoid common errors that lead to security holes or applications that crash.
  
  A very common error made by programmers is a failure to anticipate the absence of a value in their program.
