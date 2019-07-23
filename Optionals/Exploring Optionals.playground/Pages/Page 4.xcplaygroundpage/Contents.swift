@@ -14,13 +14,14 @@
  Run the playground.
  
  */
-// Type your code below this line
-
+// Type the code below this line...
 
 
 /*:
  
  Is an empty string the same as a *nil* value?
+ 
+ Write down your thoughts in your app development journal.
  
  */
 //: [Next](@next)

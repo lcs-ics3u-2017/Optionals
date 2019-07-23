@@ -9,14 +9,21 @@
  
  ![check-nil](check-nil.png)
  
- Is the result what you expected?
+ Run the playground.
+ 
+ Ignore the yellow warning that appears.
+ 
+ Focus on the result of the conditional statement.
+ 
+ Is the result what you expected? Why?
  
  */
-// Type your code below this line
+// Type the code below this line...
+
 
 /*:
  
- Now change the first line to:
+ Now change line 22 to look like this:
  
  ![set-monday](set-monday.png)
  

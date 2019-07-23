@@ -8,7 +8,7 @@
  
  If you find gaps, review earlier pages.
  
- Remember to take notes in your sketchbook.
+ Remember to take notes in your app development journal.
  
  */
 //: [Next](@next)

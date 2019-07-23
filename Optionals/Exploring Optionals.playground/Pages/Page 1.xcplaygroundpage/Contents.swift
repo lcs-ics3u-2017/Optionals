@@ -20,11 +20,11 @@
 
 /*:
  
- To see the result, open the debug area by pressing **Command-Shift-Y**.
+ The debug area appeared at the bottom of your playground.
  
- Scroll to the top of the output in the debug area.
+ Did you see output similar to the following?
  
- You should have seen output similar to the following:
+ What do you think the error means?
  
  ![variable-not-initialized](error.png)
  
@@ -52,7 +52,7 @@
  
  How does the result shown from the second block of code differ from the result you got when running the first block of code?
  
- Write the answer in your app development journal.
+ Write a response to this question in your app development journal.
  
  */
 //: [Next](@next)

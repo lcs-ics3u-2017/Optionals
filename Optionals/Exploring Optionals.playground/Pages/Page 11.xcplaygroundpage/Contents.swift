@@ -3,15 +3,14 @@
  
  ### Knowledge check #2
  
- What will be the result of typing the following code?
+ What will happen when the code below is run?
  
- Make the prediction before you type the code.
+ Make a prediction before you actually type and run the code.
  
  ![kc2](kc2.png)
  
  */
-// Type your code below this line
-
+// Type the code below this line...
 
 
 //: [Next](@next)

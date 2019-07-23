@@ -7,31 +7,35 @@
  
  ![optional](optional.png)
  
- On line 1, a value was provided when the variable was initialized.
+ On line 22, a value was provided when `dayOfWeek` was initialized.
  
- On line 2, we checked for the absence of a value.
+ On line 23, we checked for the absence of a value.
  
- On line 3, we printed the contents of the variable.
+ On line 24, we printed the contents of the `dayOfWeek` variable.
  
- However, the variable **dayOfWeek** remained an optional, and so it was shown as such in the output.
+ However, the variable `dayOfWeek` remained an optional, and so it was shown as such in the output.
  
- How can we use **dayOfWeek** like a regular variable?
+ How can we use `dayOfWeek` like a regular variable?
  
  We must *unwrap* the optional variable.
  
- Type the code you see below – note the changes on lines 3 and 4:
+ Type the code you see below – note the changes within the first branch of the conditional statement.
  
  ![force-unwrap](force-unwrap.png)
  
  */
-// Type the code below this line
+// Type the code below this line...
 
 
 /*:
  
- Look closely at the output – **how does it differ from the output you obtained on Page 5**?
+ Now, run the playground.
  
- Go back and check if needed.
+ Look closely at the output.
+
+ **How does it differ from the output you obtained on page 5**?
+ 
+ Go back to [page 5](@previous) and check if needed.
  
  */
 //: [Next](@next)

@@ -11,17 +11,19 @@
  
  What is the result?
  */
-// type code below this line
+// Type the code below this line...
 
 /*:
  
- After you try this, change the second line to:
+ After you try this, change the code on line 16 to:
  
  ![set-a-value](set-a-value.png)
  
  Run the program again.
  
- What is the reuslt?  What does this imply?
+ What is the result?  What does this imply?
+ 
+ Write down your thoughts in your app development journal.
  
  */
 //: [Next](@next)
