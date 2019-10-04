@@ -43,10 +43,16 @@
 /*:
  
  Run the playground again.
-  
+ 
+ You will notice a warning appears:
+ 
+ ![coerced](coerced.png)
+ 
+ Aside from that warning, focus on the result shown in the debug area.
+ 
  How does the result shown from the second block of code differ from the result you got when running the first block of code?
  
- Write a response to this question in your black notebook.
+ Write a response to this question in your app development journal.
  
  */
 //: [Next](@next)
