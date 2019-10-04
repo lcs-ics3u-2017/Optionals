@@ -23,7 +23,7 @@
  
  What is the result?  What does this imply?
  
- Write down your thoughts in your app development journal.
+ Write down your thoughts in your black notebook.
  
  */
 //: [Next](@next)
