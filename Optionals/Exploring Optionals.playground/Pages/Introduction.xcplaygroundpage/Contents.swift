@@ -21,7 +21,7 @@
  
  (Quotes from **Swift Programming**, Mathias & Gallagher, 2015)
  
- You may wish to make a summary note of these basic ideas in your purple notebook.
+ You may wish to make a summary note of these basic ideas in your black notebook.
  
  When you are ready, follow the link to the next page in this playground.
  
