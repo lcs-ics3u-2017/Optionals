@@ -21,7 +21,7 @@
  
  Is an empty string the same as a *nil* value?
  
- Write down your thoughts in your app development journal.
+ Write down your thoughts in your black notebook.
  
  */
 //: [Next](@next)
